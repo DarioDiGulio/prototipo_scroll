@@ -12,7 +12,7 @@ document.addEventListener("scroll", function () {
     }
   }
   img.src = URL_BASE + getImgId(currentImg) + ".png";
-  if (window.scrollY > 1000) {
+  if (window.scrollY > 1100) {
     img.style.position = "static";
   } else {
     img.style.position = "fixed";
@@ -27,8 +27,5 @@ function isDownScroll() {
 }
 
 function getImgId(currentImg) {
-  for (let i = currentImg.toString().length; i < 5; i++) {
-    currentImg = "0" + currentImg;
-  }
-  return currentImg;
+  return currentImg.toString().padStart(5, "0");
 }
