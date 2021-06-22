@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="658px" height="377px" viewBox="0 0 658 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F6F23C" offset="0%"></stop>
+            <stop stop-color="#32DEBA" offset="52.8%"></stop>
+            <stop stop-color="#077BEF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-253.000000, -13170.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-16" transform="translate(8824.000000, 18608.000000)">
+                    <g id="Group_234" transform="translate(0.470000, 0.941000)">
+                        <rect id="Rectangle_195" fill="url(#linearGradient-1)" x="0.53" y="248.059" width="658" height="129" rx="10"></rect>
+                        <rect id="BlockChain_prestamosSindicados2" fill="#FFFFFF" x="0.53" y="0.059" width="658" height="373" rx="10"></rect>
+                    </g>
+                    <g id="_control_sobre_los_datos_sensibles_portabilidad_y_accesibilidad_seguridad_por_el_uso_de_sistemas_criptográficos_Las_validaciones_de_una_entidad_pueden_ser_utilizadas_por_otros_organismos" transform="translate(41.000000, 28.000000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="24" font-weight="normal">
+                        <text id="•-+-control-sobre-los-datos-sensibles">
+                            <tspan x="0" y="25">• + control sobre los datos sensibles</tspan>
+                        </text>
+                        <text id="•-+-portabilidad-y-accesibilidad">
+                            <tspan x="0" y="97">• + portabilidad y accesibilidad</tspan>
+                        </text>
+                        <text id="•-+-seguridad-por-el-uso-de-sistemas">
+                            <tspan x="0" y="169">• + seguridad por el uso de sistemas</tspan>
+                        </text>
+                        <text id="criptográficos">
+                            <tspan x="0" y="205">criptográficos</tspan>
+                        </text>
+                        <text id="•-Las-validaciones-de-una-entidad-pueden-ser">
+                            <tspan x="0" y="277">• Las validaciones de una entidad pueden ser</tspan>
+                        </text>
+                        <text id="utilizadas-por-otros-organismos">
+                            <tspan x="0" y="313">utilizadas por otros organismos</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

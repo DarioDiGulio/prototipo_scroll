@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1208px" height="276px" viewBox="0 0 1208 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-356.000000, -14240.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-16" transform="translate(8902.000000, 19653.000000)">
+                    <g id="PRÉSTAMOS_SINDICADOS_BASADOS_EN_BLOCKCHAIN" transform="translate(290.000000, 90.000000)" fill="#FFFFFF" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="59" font-weight="normal">
+                        <text id="Préstamos-sindicados">
+                            <tspan x="17.624" y="62">Préstamos sindicados</tspan>
+                        </text>
+                        <text id="basados-en-Blockchain">
+                            <tspan x="0.484" y="122">basados en Blockchain</tspan>
+                        </text>
+                    </g>
+                    <g id="Group_218" transform="translate(0.098000, 0.697000)" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <polyline id="Path_34-2" transform="translate(40.255756, 39.907748) rotate(-45.000000) translate(-40.255756, -39.907748) " points="2.75575644 58.6577479 40.2557564 21.1577479 77.7557564 58.6577479"></polyline>
+                        <polyline id="Path_37-2" transform="translate(1219.547244, 286.511252) rotate(135.000000) translate(-1219.547244, -286.511252) " points="1182.04724 305.261252 1219.54724 267.761252 1257.04724 305.261252"></polyline>
+                        <polyline id="Path_35-2" transform="translate(40.258748, 286.514244) rotate(-135.000000) translate(-40.258748, -286.514244) " points="2.75874785 305.264244 40.2587479 267.764244 77.7587479 305.264244"></polyline>
+                        <polyline id="Path_36-2" transform="translate(1219.544252, 39.904756) rotate(45.000000) translate(-1219.544252, -39.904756) " points="1182.04425 58.6547564 1219.54425 21.1547564 1257.04425 58.6547564"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

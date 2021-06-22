@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="327px" viewBox="0 0 106 327" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-1606.000000, -10070.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-7" transform="translate(10180.000000, 15511.000000)">
+                    <g id="Group_137" transform="translate(0.000000, 182.730000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                        <rect id="Rectangle_139" x="26.677" y="70.276" width="48.093" height="33.416"></rect>
+                        <polygon id="Path_112" points="0 140.549 102.289 140.549 102.289 28.831 73.46 0 0 0"></polygon>
+                        <polygon id="Path_113" points="73.46 0 73.46 28.832 102.291 28.832"></polygon>
+                        <path d="M45.434,103.668 L45.434,70.274" id="Line_41"></path>
+                        <path d="M74.768,80.982 L26.675,80.982" id="Line_42"></path>
+                        <path d="M74.768,91.883 L26.675,91.883" id="Line_43"></path>
+                    </g>
+                    <g id="Group_138" transform="translate(1.000000, 0.484000)">
+                        <g id="PDF" transform="translate(23.414000, 39.241000)" fill="#FFFFFF" font-family="Helvetica" font-size="36" font-weight="normal">
+                            <text>
+                                <tspan x="0" y="35">PDF</tspan>
+                            </text>
+                        </g>
+                        <polygon id="Path_174" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="0.001 136.21 99.133 136.21 99.133 27.94 71.193 0 0.001 0"></polygon>
+                        <polygon id="Path_175" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="71.191 0 71.191 27.94 99.131 27.94"></polygon>
+                        <path d="M0,117.034 L99.132,117.034" id="Line_101" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

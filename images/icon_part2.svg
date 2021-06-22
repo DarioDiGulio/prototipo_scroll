@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="238px" height="146px" viewBox="0 0 238 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group_8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="65.076" height="72.882"></rect>
+        <rect id="path-3" x="0" y="0" width="280.342" height="197.814"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-841.000000, -5116.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-6869.000000, -5487.000000)">
+                <g id="Group_8" transform="translate(7687.965000, 10577.000000)">
+                    <g id="Group_6" transform="translate(108.144000, 62.375000)">
+                        <g id="Group_4">
+                            <g id="Group_3-Clipped">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Rectangle_9"></g>
+                                <g id="Group_3" mask="url(#mask-2)" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                                    <g transform="translate(3.000000, 3.000000)">
+                                        <polygon id="Path_4" points="29.692 31.689 0.737 15.496 29.692 0.433 58.643 15.496"></polygon>
+                                        <polygon id="Path_5" points="29.383 66.449 29.691 31.688 58.642 15.495 58.335 49.495"></polygon>
+                                        <polygon id="Path_6" points="29.22 66.449 29.532 31.689 0.74 15.495 0.433 49.495"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group_7" transform="translate(0.492000, 0.000000)">
+                        <g id="Group_7-2-Clipped">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Rectangle_10"></g>
+                            <g id="Group_7-2" mask="url(#mask-4)" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                                <g transform="translate(23.000000, 28.000000)" id="Path_7">
+                                    <path d="M233.824,70.907 C233.824,70.907 181.597,141.098 117.171,141.098 C52.745,141.098 0.518,70.907 0.518,70.907 C0.518,70.907 52.745,0.716 117.171,0.716 C181.597,0.716 233.824,70.907 233.824,70.907 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

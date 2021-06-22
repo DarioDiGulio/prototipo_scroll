@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="658px" height="377px" viewBox="0 0 658 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F6F23C" offset="0%"></stop>
+            <stop stop-color="#32DEBA" offset="52.8%"></stop>
+            <stop stop-color="#077BEF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-253.000000, -22411.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-18" transform="translate(8824.000000, 27849.000000)">
+                    <g id="Group_295" transform="translate(0.470000, 0.941000)">
+                        <rect id="Rectangle_195-6" fill="url(#linearGradient-1)" x="0.53" y="248.059" width="658" height="129" rx="10"></rect>
+                        <rect id="BlockChain_prestamosSindicados2-3" fill="#FFFFFF" x="0.53" y="0.059" width="658" height="373" rx="10"></rect>
+                    </g>
+                    <g id="_El_prestatario_obtiene_importes_elevados._Las_entidades_bancarias_limitan_su_riesgo._El_intercambio_de_información_es_rápido_y_efectivo._" transform="translate(64.000000, 99.000000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="24" font-weight="normal">
+                        <text id="•-El-prestatario-obtiene-importes-+-elevados.">
+                            <tspan x="0" y="25">• El prestatario obtiene importes + elevados.</tspan>
+                        </text>
+                        <text id="•-Las-entidades-bancarias-limitan-su-riesgo.">
+                            <tspan x="0" y="81">• Las entidades bancarias limitan su riesgo.</tspan>
+                        </text>
+                        <text id="•-El-intercambio-de-información-es-+-rápido">
+                            <tspan x="0" y="137">• El intercambio de información es + rápido</tspan>
+                        </text>
+                        <text id="y-efectivo.">
+                            <tspan x="0" y="173">y efectivo.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="407px" height="344px" viewBox="0 0 407 344" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group_209</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="BLOCKCHAIN_final" transform="translate(-1177.000000, -7102.000000)" stroke="#0476F2" stroke-width="4">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group_209" transform="translate(9751.233000, 12543.290000)">
+                    <path d="M200.201,82.955 L322.918,82.955" id="Line_120"></path>
+                    <path d="M138.062,339.71 L260.779,339.71" id="Line_121"></path>
+                    <path d="M200.201,121.466 L322.918,121.466" id="Line_122"></path>
+                    <path d="M200.201,159.977 L322.918,159.977" id="Line_123"></path>
+                    <path d="M376.107,267.621 L25.818,267.621 C18.9702022,267.620735 12.4029923,264.900135 7.56114933,260.057729 C2.71930636,255.215324 -0.000530451538,248.647798 -1.77635684e-15,241.8 L-1.77635684e-15,25.818 C-0.00106116298,18.9703154 2.71870097,12.4027895 7.56074524,7.56074524 C12.4027895,2.71870097 18.9703154,-0.00106116298 25.818,-2.66453526e-15 L376.107,-2.66453526e-15 C382.954685,-0.00106116298 389.52221,2.71870097 394.364255,7.56074524 C399.206299,12.4027895 401.926061,18.9703154 401.925,25.818 L401.925,241.8 C401.923344,256.058687 390.365687,267.617687 376.107,267.621 Z" id="Path_227-2"></path>
+                    <circle id="Ellipse_19" cx="99.649" cy="100.9" r="25.848"></circle>
+                    <polyline id="Path_228" points="37.526 32.585 370.326 32.585 370.326 225.155"></polyline>
+                    <polyline id="Path_229" points="46.324 202.443 46.324 174.792 83.85 151.092 99.65 181.707 116.443 151.092 152.984 168.574 152.984 206.395"></polyline>
+                    <rect id="Rectangle_191" x="173.905" y="267.621" width="51.022" height="72.089"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

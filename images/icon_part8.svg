@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="616px" height="451px" viewBox="0 0 616 451" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(2.000000, 2.000000)">
+            <path d="M571.819,374.124 L39.394,374.124 C17.717,374.124 0.152,357.958 0.152,338.031 L0.152,36.092 C0.152,16.155 17.717,-1.8189894e-12 39.394,-1.8189894e-12 L571.819,-1.8189894e-12 C593.496,-1.8189894e-12 611.061,16.155 611.061,36.092 L611.061,338.031 C611.061,357.958 593.485,374.124 571.819,374.124 Z" id="Path_227" stroke="#0476F2" stroke-width="4" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M315.91,183.098 L501.654,183.098" id="Line_120-2" stroke="#0476F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M241.552,446.213 L364.269,446.213" id="Line_121-2" stroke="#0476F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M315.91,233.682 L501.654,233.682" id="Line_122-2" stroke="#0476F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M315.91,284.268 L501.654,284.268" id="Line_123-2" stroke="#0476F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="Rectangle_191-2" stroke="#0476F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="277.629" y="374.123" width="51.022" height="72.089"></rect>
+            <path d="M254.552,231.347 C254.552,274.719 218.594,309.878 174.245,309.878 C129.896,309.878 93.938,274.719 93.938,231.347 C93.938,187.975 129.896,152.812 174.245,152.812 C218.594,152.812 254.552,187.969 254.552,231.347 Z" id="Path_221" stroke="#24EA9B" stroke-width="4" stroke-linecap="round"></path>
+            <polyline id="Path_222" stroke="#24EA9B" stroke-width="4" stroke-linecap="round" points="149.654 231.093 166.326 247.405 205.285 209.298"></polyline>
+            <g id="PRÉSTAMO_APROBADO" transform="translate(146.000000, 59.000000)" fill="#0476F2" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="30" font-weight="normal">
+                <text id="PRÉSTAMO-APROBADO">
+                    <tspan x="0" y="32">PRÉSTAMO APROBADO</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1208px" height="214px" viewBox="0 0 1208 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-26.000000, -25.000000)">
+            <g id="Group_63" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <polyline id="Path_34" transform="translate(40.255756, 39.907748) rotate(-45.000000) translate(-40.255756, -39.907748) " points="2.75575644 58.6577479 40.2557564 21.1577479 77.7557564 58.6577479"></polyline>
+                <polyline id="Path_37" transform="translate(1219.547244, 224.185252) rotate(135.000000) translate(-1219.547244, -224.185252) " points="1182.04724 242.935252 1219.54724 205.435252 1257.04724 242.935252"></polyline>
+                <polyline id="Path_35" transform="translate(40.258748, 224.188244) rotate(-135.000000) translate(-40.258748, -224.188244) " points="2.75874785 242.938244 40.2587479 205.438244 77.7587479 242.938244"></polyline>
+                <polyline id="Path_36" transform="translate(1219.544252, 39.904756) rotate(45.000000) translate(-1219.544252, -39.904756) " points="1182.04425 58.6547564 1219.54425 21.1547564 1257.04425 58.6547564"></polyline>
+            </g>
+            <g id="IDENTIDAD_DIGITAL_EN_BLOCKCHAIN" transform="translate(196.302000, 97.681000)" fill="#FFFFFF" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="60" font-weight="normal">
+                <text id="Identidad-digital-en-Blockchain">
+                    <tspan x="0.26" y="63">Identidad digital en Blockchain</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

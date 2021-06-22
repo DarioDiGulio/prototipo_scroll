@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="79px" viewBox="0 0 79 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group_239</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group_239" transform="translate(-17.000000, -18.000000)">
+            <g id="Ellipse_21" transform="translate(56.500000, 57.500436) rotate(45.000000) translate(-56.500000, -57.500436) translate(17.000000, 18.000436)">
+                <circle id="Oval" cx="39.5" cy="39.5" r="39.5"></circle>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="39.5" cy="39.5" r="38.5"></circle>
+            </g>
+            <g id="_2-3" transform="translate(31.864000, 0.570000)" fill="#FFFFFF" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="83" font-weight="normal">
+                <text id="+">
+                    <tspan x="0" y="87">+</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

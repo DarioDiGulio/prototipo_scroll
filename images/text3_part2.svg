@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="371px" height="150px" viewBox="0 0 371 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-25.000000, -25.000000)">
+            <g id="Block_Chain_Federal_Argentina-2" transform="translate(78.714000, 58.000000)" fill="#FFFFFF" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="30" font-weight="normal">
+                <text id="Block-Chain">
+                    <tspan x="45.36" y="32">Block Chain</tspan>
+                </text>
+                <text id="Federal-Argentina">
+                    <tspan x="0.165" y="68">Federal Argentina</tspan>
+                </text>
+            </g>
+            <g id="Group_213-2" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <polyline id="Path_34-9" transform="translate(39.774756, 39.777748) rotate(-45.000000) translate(-39.774756, -39.777748) " points="2.27475644 58.5277479 39.7747564 21.0277479 77.2747564 58.5277479"></polyline>
+                <polyline id="Path_37-9" transform="translate(381.442244, 160.106252) rotate(135.000000) translate(-381.442244, -160.106252) " points="343.942244 178.856252 381.442244 141.356252 418.942244 178.856252"></polyline>
+                <polyline id="Path_35-9" transform="translate(39.777748, 160.109244) rotate(-135.000000) translate(-39.777748, -160.109244) " points="2.27774785 178.859244 39.7777479 141.359244 77.2777479 178.859244"></polyline>
+                <polyline id="Path_36-9" transform="translate(381.439252, 39.774756) rotate(45.000000) translate(-381.439252, -39.774756) " points="343.939252 58.5247564 381.439252 21.0247564 418.939252 58.5247564"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

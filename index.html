@@ -1,14 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <a href="pruebaDos.html">Prueba Dos</a>
-    <div style="height: 250vh; display: flex; justify-content: center">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;0,600;0,700;1,400&display=swap"
+    rel="stylesheet">
+		<script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/attrchange/attrchange.js"></script>
+    <script src="node_modules/jquery-aniview/dist/jquery.aniview.js"></script>
+		<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="node_modules/animejs/lib/anime.min.js"></script>
+  <script src="js/main.js"></script>
+  <title>Blockchain</title> 
+  <style>
+    .part0{
+      height: 100vh;
+    }
+    </style>
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+     <div>
+        <a class="navbar-brand" href="#">
+          <img src="images/logo.svg" alt="Logo Redlink" class="py-2" width="60">
+        </a>
+        <a class="btn" href="#">
+          <div class="float-start"><img src="images/flechita.svg" alt="icon"></div>
+          <div class="float-end" >INNOVATION&nbsp;LAB</div>
+        </a>
+     </div>
+    </div>
+  </nav>
+  <section>
+    
+    <div class="container text-center mb-5 pb-1 part0">
+      
+      <img src="images/icon_hero.png" alt="icon" class="mt-5 mb-4 icon-hero">
+      <h1 class="ml12">Prueba de concepto BLOCKCHAIN</h1>
+    </div>
+    <div style="height: 100vh; display: flex; justify-content: center;">
       <img
         src="./images/Animacion_Celular_00000.png"
         alt=""
@@ -16,6 +51,458 @@
         style="position: fixed; top: 20px"
       />
     </div>
-    <script src="./index.js"></script>
-  </body>
+   
+
+    <div class="vermas">
+      <img src="images/seemore.svg" alt="vermas" class="mt-5">
+    </div>
+  </section>
+
+  
+  <section class="mt-2 pt-5 part-1 " >
+    <div class="container text-center mt-5 px-4">
+      <img src="images/title_part1.svg" alt="l" class="img-fluid titlee">
+      
+    </div>
+  </section>
+
+  <section class="container d-flex justify-content-center aniview"  id="part1" data-av-animation="slidePart1">
+    <div class="clearfix d-inline-block d-flex align-items-center mt-5 pt-3 title_plus">
+      <img src="images/circle_plus.svg" alt="plus" class="corchete_right">
+      <h2 class="mx-3">Seguridad</h2>
+    </div>
+  </section>
+
+  <section class="mt-0 part-1-b">
+    <div class="container mt-5 px-4">
+      <div class="row tabla">
+        <div class="col-12 col-md-6 py-3 d-flex justify-content-center align-items-center">
+         <h4 class="p-0"> No puede ser corrompida</h>
+        </div>
+        <div class="col-12 col-md-6 p-4 p-md-5">
+          <p>- Cada nodo tiene copia del registro.</p>
+          <p>- Transacciones:</p>
+          1. Cada nodo verifica. <br>
+          2. La mayoría valida. <br>
+          3. Se agrega al registro. <br>
+        </div>
+      </div>
+
+      <div class="aniview" id="part1_c" data-av-animation="slidePart1_c">
+      <div class="row tabla3 mt-4" >
+        <div class="col-6 d-flex justify-content-center align-items-center">
+          <h4>Tecnología descentralizada</h>
+        </div>
+        <div class="col-6 p-5">
+          <p>- Ninguna persona puede ejercer control total.</p>
+        </div>
+      </div>
+
+      <div class="row tabla3 mt-4">
+        <div class="col-6 d-flex justify-content-center align-items-center">
+          <h4>Seguridad mejorada</h>
+        </div>
+        <div class="col-6 p-5">
+          <p>- El uso de cifrado garantiza un nivel más de seguridad.</p>
+        </div>
+      </div>
+    </div>
+
+    </div>
+    
+  </section>
+
+  <section class="container d-flex justify-content-center">
+    <div class="clearfix d-inline-block d-flex align-items-center mt-5 pt-3 title_plus">
+      <img src="images/circle_plus.svg" alt="plus" class="corchete_right">
+      <h2 class="mx-3">Eficacia</h2>
+    </div>
+  </section>
+
+  <section class="mt-0 aniview" id="part1b" data-av-animation="slidePart1b">
+   
+    <div class="container mt-5 px-4" >
+      <div class="row tabla2">
+        <div class="col-6 d-flex justify-content-center align-items-center">
+          <h4> Registros Distribuidos</h>
+        </div>
+        <div class="col-6 p-5">
+          <p>- Para mantener el registro el poder se distribuye entre los usuarios.</p>
+        </div>
+      </div>
+
+      <div class="row tabla2 mt-4">
+        <div class="col-6 d-flex justify-content-center align-items-center">
+          <h4>Consenso</h>
+        </div>
+        <div class="col-6 p-5">
+          <p>- Cada blockchain cuenta con algoritmos de consenso para tomar decisiones más precisas.</p>
+        </div>
+      </div>
+
+      <div class="row tabla2 mt-4">
+        <div class="col-6 d-flex justify-content-center align-items-center">
+          <h4>Acuerdos más rápidos</h>
+        </div>
+        <div class="col-6 p-5">
+          <p>- Transferencias más rápidas que los sistemas bancarios tradicionales.</p>
+          <p>- Ahorro de tiempo a largo plazo.</p>
+        </div>
+      </div>
+
+    </div>
+<br><br><br>
+  </section>
+
+  <section class="part-2 pt-4 mb-0 pb-0 aniview" id="part2" data-av-animation="slidePart2">
+    <div class="container mt-5 px-4 text-center">
+      <img src="images/icon_part2.svg" class="icon" alt="icon">
+      <div class="row mt-5 pt-2 p-0 m-0">
+        <div class="col-4">
+          <img src="images/text1_part2.svg" class="w-100 img1" alt="text">
+        </div>
+        <div class="col-4">
+          <img src="images/text2_part2.svg" class="w-100 img2" alt="text">
+        </div>
+        <div class="col-4">
+          <img src="images/text3_part2.svg" class="w-100 img3 " alt="text">
+        </div>
+        <div class="col-12 my-5">
+          <img src="images/text4_part2.svg" class="img-fluid img4" alt="text">
+					<br><br>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <section class="part-3 pt-5 aniview" id="part3" data-av-animation="slidePart3">
+        <div class="container mt-5 mt-5 px-4">
+          <img src="images/title_part3.svg" class="img-fluid mb-5 mb-5 title" alt="title">
+          <div class="row pt-5 pb-5 aniview" id="part3_C" data-av-animation="slidePart3_C">
+            <div class="col-6 d-flex justify-content-center align-items-center " >
+              <div class="m-5 pt-5 text">
+                - La tecnología blockchain permite 
+                crear un perfil único 
+                con toda la documentación del cliente.
+                <br><br>
+                - Luego la comparte con una entidad para que la valide.
+              </div>
+            </div>
+            <div class="col-6 text-center">
+              
+              <img src="images/icon_part3.svg" class="img-fluid icon" alt="icon">
+            </div>
+          </div>
+					<div class="my-5 pt-5 pb-5 mb-0  mano aniview" id="part3_B" data-av-animation="slidePart3_B">
+					<div class="mano">
+							<video controls class="video">
+								<source src="videos/video.mp4" type="video/mp4" />
+								Su navegador no soporta contenido multimedia.
+							</video>
+						
+	          <img src="images/mano_part3.png" class="img-fluid" alt="mano">
+          </div>
+					</div>
+        </div>
+    </section>
+
+  <section class="part-4 pt-5 d-none d-xl-block aniview" id="part4" data-av-animation="slidePart4">
+    <div class="container mt-4 px-4 text-center">
+      <img src="images/title_part4.svg" class="img-fluid mb-5 mb-5 title" alt="title">
+
+			<svg class="img-fluid position-absolute start-50 line" width="100px" height="1750px" viewBox="0 0 100 1750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						<g id="line_part4" stroke="#24EA9B">
+								<path d="M66.5,0.5 L66.5,1898.20835" id="Line_114" stroke-width="2"></path>
+								<path d="M66.5,254.5 L0.5,254.5" id="Line_124" stroke-width="3"></path>
+								<path d="M99.5,973.5 L33.5,973.5" id="Line_125" stroke-width="3"></path>
+						</g>
+				</g>
+		</svg>
+    
+    
+        <div class="row mt-5 pt-5">
+          <div class="col-6 titles">Usuario</div>
+          <div class="col-6 titles">Entidad</div>
+        </div>
+        <div class="row mt-5 pt-5 images">
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_1_1.svg" class="" width="347" alt="img">
+            <img src="images/usuario_1_2.svg" class="" width="71" alt="img">
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_2_1.svg" class="" width="422" alt="img">
+            <img src="images/usuario_2_2.svg" class="" width="150" alt="img">
+          </div>
+          <div class="col-5 d-flex justify-content-end align-items-center">
+            <img src="images/usuario_3_1.svg" class="" width="110" alt="img">
+          </div>
+          <div class="col-5 d-flex justify-content-end align-items-center">
+          </div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_4_1.svg" class="" width="406" alt="img">
+            <img src="images/usuario_4_2.svg" class="" width="182" alt="img">
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_5_1.svg" class="" width="436" alt="img">
+            <img src="images/usuario_5_2.svg" class="" width="103" alt="img">
+          </div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_6_1.svg" class="" width="351" alt="img">
+            <img src="images/usuario_6_2.svg" class="" width="255" alt="img">
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_7_1.svg" class="" width="379" alt="img">
+            <img src="images/usuario_7_2.svg" class="" width="263" alt="img">
+          </div>
+
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_8_1.svg" class="" width="405" alt="img">
+            <img src="images/usuario_3_1.svg" class="" width="255" alt="img">
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_9_1.svg" class="" width="434" alt="img">
+            <img src="images/usuario_1_2.svg" class="" width="71" alt="img">
+          </div>
+
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_11_1.svg" class="" width="405" alt="img">
+            <img src="images/usuario_11_2.svg" class="" width="255" alt="img">
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_12_1.svg" class="" width="434" alt="img">
+            <img src="images/usuario_1_2.svg" class="" width="71" alt="img">
+          </div>
+
+          <div class="col-5 d-flex justify-content-between align-items-center">
+       
+          </div>
+          <div class="col-1"></div>
+          <div class="col-5 d-flex justify-content-between align-items-center">
+            <img src="images/usuario_13_1.svg" class="" width="357" alt="img">
+            <img src="images/usuario_3_1.svg" class="" width="89" alt="img">
+          </div>
+
+        </div>
+   </div>
+   <br> <br> <br><br> <br> <br> 
+   </section>
+
+   <section class="part-5 pt-5 aniview" id="part5" data-av-animation="slidePart5">
+     <div class="container mt-4 px-4 text-left">
+      <div class="row">
+        <div class="col-6 mt-5 pt-5">
+          <img src="images/title_part5.svg" class="title" alt="img">
+          <img src="images/text_part5.svg" class="mb-5 mt-3 img-fluid text " alt="img">
+					<br><br><br><br><br>
+        </div>
+        <div class="col-6 wrap-celu ">
+						<img src="images/celu_part5.png" class="celu img-fluid" alt="img">
+				
+        </div>
+      </div>
+  </div>
+  </section>
+
+
+
+ <section class="part-6 pt-5 aniview" id="part6" data-av-animation="slidePart6">
+	<div class="container mt-5 px-4 text-center">
+		<div class="row mt-5 pt-2 p-0 m-0">
+			<div class="col-4">
+				<img src="images/text1_part2.svg" class=" text" alt="text">
+			</div>
+			<div class="col-4">
+				<img src="images/text2_part2.svg" class=" text" alt="text">
+			</div>
+			<div class="col-4">
+				<img src="images/text3_part2.svg" class=" text" alt="text">
+			</div>
+			<div class="w-100 my-5">
+				<img src="images/title_part6.svg" class="text4" alt="text">
+				<p class="mt-5 pt-2 text5">
+					Cuando una empresa solicita más dinero de lo que un solo banco tiene permitido otorgar,<br>
+					se puede acordar un préstamo sindicado.
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row aniview" id="part6_B" data-av-animation="slidePart6_B">
+		<div class="col-7">
+			<img src="images/image1_part6.jpg" class="w-100 img1" alt="text">
+		</div>
+		<div class="col-5 d-flex  align-items-center">
+	
+				<div class="text6">
+					Es un mecanismo por el cual <br>
+					una empresa consigue<br>
+					financiación externa con<br>
+					múltiples entidades a la vez.
+				</div>
+	
+		</div>
+
+		<div class=" d-flex ">
+		<div class="col-5 d-flex align-items-center justify-content-end ">
+			
+					
+						
+						<div class="text7">
+							El uso de Blockchain busca autorizar la<br>
+						gestión completa del préstamo y se<br>
+						registra en la cadena de bloques,<br>
+						asegurando su autenticidad.<br>
+					</div>
+
+			
+				
+		</div>
+		<div class="col-7">
+		
+				<img src="images/image2_part6.jpg" class="w-100 img2" alt="text">
+		
+		</div>
+	</div>
+	</div>
+</section>
+
+<section class="part-7 pt-5 aniview" id="part7" data-av-animation="slidePart7">
+	<div class="container  py-5 text-center">
+
+	
+
+
+	<div id="carouselExampleControls" class="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="false">
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img src="images/slide_img1.jpeg" class="d-block w-100" alt="imagen">
+				<div class="mt-3">1. El usuario se registra.</div>
+			</div>
+			<div class="carousel-item">
+				<img src="images/slide_img2.jpeg" class="d-block w-100" alt="imagen">
+				<div class="mt-3">2. Solicita un préstamo.</div>
+			</div>
+			<div class="carousel-item">
+				<img src="images/slide_img3.png" class="d-block w-100" alt="imagen">
+			</div>
+			<div class="carousel-item">
+				<img src="images/slide_img4.png" class="d-block w-100" alt="imagen">
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+
+</div>
+</section>
+
+<section class="part-5 py-5 aniview" id="part8" data-av-animation="slidePart8">
+	<div class="container my-4 px-4 text-left">
+		<img src="images/title_part8.svg" class="title img-fluid" alt="img">
+	 <div class="row">
+		 <div class="col-6">
+			 
+			 <img src="images/text_part8.svg" class="mt-5 text img-fluid" alt="img">
+		 </div>
+		 <div class="col-6 text-right">
+			 <img src="images/icon_part8.svg" class="icon img-fluid" alt="img">
+		 </div>
+	 </div>
+</div>
+</section>
+
+<section class="part-9 pt-5 aniview" id="part9" data-av-animation="slidePart9">
+	<div class="container mt-4 px-4 text-center">
+		<div class="row mt-5 pt-2 p-0 m-0">
+			<div class="col-4">
+				<img src="images/text1_part2.svg" class="text" alt="text">
+			</div>
+			<div class="col-4">
+				<img src="images/text2_part2.svg" class="text" alt="text">
+			</div>
+			<div class="col-4">
+				<img src="images/text3_part2.svg" class="text" alt="text">
+			</div>
+			<div class="w-100 my-5 text-center aniview" id="part9_B" data-av-animation="slidePart9_B">
+				<h1 class="title">BlockChain Federal Argentina (BFA)</h1>
+				<p class="mt-5 pt-1 text2">
+					RedLink® es miembro de la red de Blockchain Federal Argentina como un "Nodo
+					sellador" (sealers), únicos que pueden sellar (agregar) bloques a la cadena.
+				</p>
+
+				<img src="images/icon_part9.svg" class="icon" alt="text">
+			</div>
+		</div>
+</div>
+</section>
+
+<section class="part-10 py-4 aniview" id="part10" data-av-animation="slidePart10">
+	<div class="container my-4 px-4 text-left">
+		<div class="row">
+			<div class="col-3">
+				<img src="images/icon_part10.svg" class="img-fluid icon" alt="text">
+			</div>
+			<div class="col-9 d-flex align-items-center">
+				<div class="text">
+					<h4 class="mb-4">Red Link</h4>
+	
+					Red Link es una empresa de capitales argentinos creada en 1988 que provee
+					servicios tecnológicos, informáticos y de procesamiento a gran escala y con los
+					más altos parámetros de calidad, seguridad y confiabilidad a los principales
+					bancos e instituciones financieras, tarjetas de crédito y empresas del mercado.
+				</div>
+				</p>
+		</div>
+</div>
+</section>
+
+<section class="part-11 py-3 aniview" id="part11" data-av-animation="slidePart11">
+	<div class="container my-4 px-4 text-left">
+
+		<div class="row text2">
+			<div class="col-2">
+				<img src="images/icon_part11.svg" class="img-fluid" alt="text">
+			</div>
+			<div class="col-2 email"><a href="mailto:info@redlink.com">Info@redlink.com</a></div>
+			<div class="col-4">
+				<div class="d-flex justify-content-center icon ">
+					<div class="w-50">
+						<img src="images/icon2_part11.svg" class="img-fluid icon" alt="text">
+					</div>
+					<div class="w-50 text-center">
+						BLOCKCHAIN
+						CRIPTOMONEDAS
+						RPA
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-2 text-center">
+				BIOMETRÍA DACTILAR
+				VOICE BANKING
+				EXTRACCIONES RÁPIDAS
+			</div>
+			<div class="col-2 text-center">
+				BIOMETRÍA FACIAL
+				POTENCIANDO ATM
+				LABORATORIO
+			</div>
+		</div>
+
+	</div>
+</section>
+
+</body>
 </html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1209px" height="276px" viewBox="0 0 1209 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-356.000000, -22035.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-17" transform="translate(8902.000000, 27448.000000)">
+                    <g id="Group_300" transform="translate(414.361000, 105.430000)">
+                        <g id="Group_299">
+                            <g id="_4-3" transform="translate(30.864000, 0.570000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="83" font-weight="normal">
+                                <text id="+">
+                                    <tspan x="0" y="87">+</tspan>
+                                </text>
+                            </g>
+                            <g id="Ellipse_23-2" transform="translate(56.500000, 56.500436) rotate(45.000000) translate(-56.500000, -56.500436) translate(17.000000, 17.000436)">
+                                <circle id="Oval" cx="39.5" cy="39.5" r="39.5"></circle>
+                                <circle id="Oval" stroke="#000000" stroke-width="2" cx="39.5" cy="39.5" r="38.5"></circle>
+                            </g>
+                        </g>
+                        <g id="Beneficios-2" transform="translate(134.000000, 17.000000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="59" font-weight="normal">
+                            <text id="Beneficios">
+                                <tspan x="0.851" y="62">Beneficios</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group_298" transform="translate(0.519000, 0.871000)" stroke="#FFF336" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <polyline id="Path_34-15" transform="translate(40.255756, 39.907748) rotate(-45.000000) translate(-40.255756, -39.907748) " points="2.75575644 58.6577479 40.2557564 21.1577479 77.7557564 58.6577479"></polyline>
+                        <polyline id="Path_37-15" transform="translate(1219.547244, 286.511252) rotate(135.000000) translate(-1219.547244, -286.511252) " points="1182.04724 305.261252 1219.54724 267.761252 1257.04724 305.261252"></polyline>
+                        <polyline id="Path_35-15" transform="translate(40.258748, 286.514244) rotate(-135.000000) translate(-40.258748, -286.514244) " points="2.75874785 305.264244 40.2587479 267.764244 77.7587479 305.264244"></polyline>
+                        <polyline id="Path_36-15" transform="translate(1219.544252, 39.904756) rotate(45.000000) translate(-1219.544252, -39.904756) " points="1182.04425 58.6547564 1219.54425 21.1547564 1257.04425 58.6547564"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

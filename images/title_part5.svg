@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="79px" viewBox="0 0 252 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOCKCHAIN_final" transform="translate(-210.000000, -13031.000000)">
+            <g id="BLOCKCHAIN" transform="translate(-8572.000000, -5439.000000)">
+                <g id="Group-15" transform="translate(8765.000000, 18452.000000)">
+                    <g id="Group-14">
+                        <g id="_" transform="translate(32.864000, 0.570000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="83" font-weight="normal">
+                            <text id="+">
+                                <tspan x="0" y="87">+</tspan>
+                            </text>
+                        </g>
+                        <g id="Ellipse_20" transform="translate(56.500000, 57.500436) rotate(45.000000) translate(-56.500000, -57.500436) translate(17.000000, 18.000436)">
+                            <circle id="Oval" cx="39.5" cy="39.5" r="39.5"></circle>
+                            <circle id="Oval" stroke="#000000" stroke-width="2" cx="39.5" cy="39.5" r="38.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Beneficios" transform="translate(122.000000, 34.000000)" fill="#000000" font-family="Poppins-ExtraLight, Poppins ExtraLight" font-size="30" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="32">Beneficios</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
