@@ -831,28 +831,34 @@ $("#part10").attrchange({
    * @description celular scroll animation
   */
 
-  let URL_BASE = "./images/Animacion_Celular_";
+  const URL_BASE = "./images/Animacion_Celular_";
   let currentImg = 0;
   let previousY = 0;
 
   document.addEventListener("scroll", function () {
     const img = document.getElementById("img");
-    if (isDownScroll() && currentImg < 103 && window.scrollY > 200) {
-      currentImg++;
-    } else {
-      if (currentImg > 0) {
-        currentImg--;
-      }
-    }
+    updateImageOnScroll();
     img.src = URL_BASE + getImgId(currentImg) + ".png";
     if (window.scrollY > 1000 || window.scrollY < 200) {
       img.style.position = "static";
-      img.hidden = true;
+      // img.hidden = true;
     } else {
       img.style.position = "fixed";
       img.hidden = false;
     }
   });
+
+function updateImageOnScroll() {
+  if (isDownScroll() && isInImagePlace()) {
+    currentImg++;
+  } else {
+    if (currentImg > 0) currentImg--;
+  }
+}
+
+function isInImagePlace() {
+  return currentImg < 103 && window.scrollY > 200;
+}
 
   function isDownScroll() {
     let currentY = window.scrollY;
